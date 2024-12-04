@@ -2,12 +2,13 @@
 
 <p>Este foi um dos meus primeiros projetos realizados no curso DevClub do Rodolfo Mori</p>
 <br>
-<h2>aqui eu utilizei as primeiras linguagens que tive conhecimento, são elas:</h2>
+<h2>Aqui eu utilizei as primeiras linguagens que tive conhecimento, são elas:</h2>
 <ul>
   <li>HTML</li>
   <Li>CSS</Li>
 <ul>
 <br>
-Veja um layoult completo do meu sistema
-
-<img src="https://github.com/user-attachments/assets/69577581-5a92-422c-bbc7-89925d7e17f3"
+<p>Veja um layoult completo do meu sistema</p>
+<br>
+<br>
+<img src= "https://github.com/TonyRodrigues96/Wide-coverage-location/blob/main/Layout%20site.png?raw=true" />
